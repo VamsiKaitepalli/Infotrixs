@@ -1,0 +1,18 @@
+Task: Deployment of WordPress
+
+Introduction:
+
+The deployment of WordPress, a popular open-source content management system (CMS).WordPress is a widely used platform for creating websites and blogs due to its user-friendly interface and extensive plugin ecosystem. 
+
+Deployment Process:
+
+   Server Setup:
+- Create AWS Account
+- Create a VPC
+- Launch a EC2 instance and deploy Wordpress
+- I have refered offical document https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview and deployed Wordpress
+
+
+Conclusion:
+
+Deploying WordPress is a fundamental process for creating and managing websites. This report has provided an overview of the deployment process.

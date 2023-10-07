@@ -1,0 +1,18 @@
+Task: Deployment of Mysql
+
+Introduction:
+
+Deploying MySQL on Amazon Elastic Compute Cloud (EC2) is a straightforward process that provides a scalable and flexible database solution. This report outlines the essential steps for deploying MySQL on an EC2 instance.
+MySQL is a free and versatile database system that's good for managing data, especially for websites, and it's known for being fast and secure.
+
+Deployment Process:
+
+   Server Setup:
+- Create AWS Account
+- Create a VPC 
+- Launch a EC2 instance with private subnet and install Mysql
+
+
+Conclusion:
+
+Deploying MySQL on Amazon EC2 is a practical way to manage databases in the cloud. This report has outlined the fundamental steps for a successful deployment, including EC2 instance setup.

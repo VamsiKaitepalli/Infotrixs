@@ -1,0 +1,30 @@
+Task: Deployment of WordPress with MySQL
+
+Introduction:
+
+The deployment of WordPress, a popular open-source content management system (CMS), with MySQL as its database management system is a common and crucial task for web developers and administrators. This report provides an overview of the deployment process and discusses the key steps involved in setting up WordPress with MySQL.
+
+Background:
+
+WordPress is a widely used platform for creating websites and blogs due to its user-friendly interface and extensive plugin ecosystem. MySQL is a popular open-source relational database management system used to store and manage WordPress site data. Deploying WordPress with MySQL involves configuring the necessary components and ensuring a seamless connection between them.
+
+Deployment Process:
+
+The deployment process can be divided into two key steps:
+
+   Server Setup:
+- Create AWS Account
+- Create a VPC
+- Launch a EC2 instance and deploy Wordpress and Mysql
+- I have refered offical document https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview and deployed Wordpress and Mysql
+
+   MySQL Database Setup:
+- Install MySQL on your server and configure it.
+- Create a new MySQL database for your WordPress site.
+- Create a MySQL user and grant necessary privileges to the user for the WordPress database.
+- Secure the MySQL installation by setting a strong root password and limiting access.
+
+
+Conclusion:
+
+Deploying WordPress with MySQL is a fundamental process for creating and managing websites. This report has provided an overview of the deployment process, including server setup, MySQL configuration.
